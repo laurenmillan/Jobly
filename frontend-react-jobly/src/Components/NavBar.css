@@ -1,0 +1,22 @@
+.navbar {
+	background-color: #343a40;
+	margin-bottom: 4rem;
+}
+
+.nav-link {
+	color: white !important;
+}
+
+.nav-link:hover,
+.nav-link.active {
+	font-weight: bold;
+}
+
+nav a.navbar-brand {
+	color: #f0f2f5;
+}
+
+nav a.navbar-brand:hover {
+	font-weight: bold;
+	color: #f0f2f5;
+}
