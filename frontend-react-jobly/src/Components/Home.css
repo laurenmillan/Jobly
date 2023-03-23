@@ -1,0 +1,26 @@
+.Home-container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+}
+
+.Home-button-div {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 20px;
+}
+
+.Home-button-div > * {
+	margin-right: 10px;
+}
+
+h1 {
+	font-weight: bold;
+}
+
+p {
+	font-size: 20px;
+}
